@@ -1238,7 +1238,7 @@ $c-drop-down-menu-link-padding-top-padding-bottom: 8px;
 // Colours
 $c-drop-down-menu-background-color: $g-color-white;
 
-$c-drop-down-menu-outline-color: rgba($g=color-black, 0.19);
+$c-drop-down-menu-outline-color: rgba($g-color-black, 0.19);
 
 $c-drop-down-menu-link-color: $g-color-grey-rolling-stone;
 
